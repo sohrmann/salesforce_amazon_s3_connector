@@ -45,9 +45,5 @@
         <members>AWS_IAM_UserCredentials__c-Amazon S3 Credential Layout</members>
         <name>Layout</name>
     </types>
-    <types>
-        <members>Admin</members>
-        <name>Profile</name>
-    </types>
     <version>34.0</version>
 </Package>
